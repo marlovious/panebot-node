@@ -1,4 +1,4 @@
-![PaneBot Dashboard](assets/pb.node.jpg) #PaneBot NodeOS 
+# <img src="assets/pb.node.png" width="130" align="left" style="margin-right: 12px" /> PaneBot NodeOS
 
 Reference hardware and OS configuration for a dedicated PaneBot display target.
 <br>
