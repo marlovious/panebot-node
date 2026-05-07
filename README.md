@@ -1,7 +1,9 @@
 # PaneBot Node
+![PaneBot Dashboard](assets/pb.node.jpg)
 
 Reference hardware and OS configuration for a dedicated PaneBot display target.
-![PaneBot Dashboard](assets/pb.node.jpg)
+<br>
+
 A PaneBot node is a machine running `panebot-daemon` in remote mode — no keyboard, no mouse, no desktop. It boots into a minimal Hyprland session, the daemon starts automatically, panes open into a tiling layout, and the display is ready to receive streams from any connected controller on the network.
 
 This is the reference deployment. The daemon itself runs on any platform — see [panebot](https://github.com/marlovious/panebot) for local installation on macOS or Linux. This repo is specifically for building and maintaining dedicated display hardware.
