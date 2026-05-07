@@ -1,4 +1,4 @@
-![PaneBot Dashboard](assets/pb.node.jpg) ![PaneBot Dashboard](assets/dashboard.png)
+![PaneBot Dashboard](assets/pb.node.jpg) #PaneBot NodeOS 
 
 Reference hardware and OS configuration for a dedicated PaneBot display target.
 <br>
