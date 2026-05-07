@@ -1,5 +1,5 @@
 # <img src="assets/pb.node.jpg" width="230" align="left" style="margin-right: 12px" /> PaneBot NodeOS
-
+<br>
 Reference hardware and OS configuration for a dedicated PaneBot display target.
 <br><br><br>
 
